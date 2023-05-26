@@ -1,0 +1,29 @@
+﻿Data set,Scholarly Output vs Publication Year
+Entities,"Durham University, Lancaster University, Loughborough University, Newcastle University, University of Bath, University of East Anglia, University of Exeter, University of Liverpool, University of Southampton, University of York"
+Year range,2017 to 2022
+Subject classification,"ASJC"
+Filtered by,"All subject areas"
+
+Data source,Scopus
+Date last updated,10 May 2023
+Date exported,23 May 2023
+Metric name,Self-citations,Types of publications included,Other options
+"Scholarly Output","-","All publication types","-"
+
+Entity,Tags,"Scholarly Output",
+,,Overall,2017,2018,2019,2020,2021,2022,
+"Durham University",,18653,3047,3106,3027,2992,3147,3334
+"Lancaster University",,17915,2896,3069,3003,3028,2966,2953
+"Loughborough University",,13416,2121,2143,2250,2238,2367,2297
+"Newcastle University",,30467,4857,5010,4945,5000,5347,5308
+"University of Bath",,14835,2291,2223,2428,2549,2725,2619
+"University of East Anglia",,13570,2175,2218,2217,2307,2456,2197
+"University of Exeter",,25863,3684,3953,4144,4254,4863,4965
+"University of Liverpool",,33221,4869,4922,5402,5793,6211,6024
+"University of Southampton",,36488,6232,6130,6113,5908,6162,5943
+"University of York",,20611,3156,3302,3398,3569,3630,3556
+
+
+
+
+"© 2023 Elsevier B.V. All rights reserved. SciVal, RELX Group and the RE symbol are trade marks of RELX Intellectual Properties SA, used under license."

@@ -1,0 +1,36 @@
+﻿Data set,Output in Top 10% Citation Percentiles (field-weighted, %) vs Publication Year,,,,,,
+Entities,"Durham University, Lancaster University, Loughborough University, Newcastle University, University of Bath, University of East Anglia, University of Exeter, University of Liverpool, University of Southampton, University of York",,,,,,,
+Year range,2017 to 2022,,,,,,,
+Subject classification,ASJC,,,,,,,
+Filtered by,All subject areas,,,,,,,
+,,,,,,,,
+Data source,Scopus,,,,,,,
+Date last updated,10-May-23,,,,,,,
+Date exported,23-May-23,,,,,,,
+Metric name,Self-citations,Types of publications included,Other options,,,,,
+"Output in Top 10% Citation Percentiles (field-weighted, %)",included,All publication types,"in top 10% of the world, field-weighted",,,,,
+,,,,,,,,
+Entity,Tags,"Output in Top 10% Citation Percentiles (field-weighted, %)",,,,,,
+,,Overall,2017,2018,2019,2020,2021,2022
+Durham University,,18.3,18.6,18.5,19.8,18.3,18.6,16.2
+Lancaster University,,20.9,23.5,22.8,21.2,20.7,20.4,17
+Loughborough University,,16.6,16.1,16.2,18.2,16.6,16.2,16.2
+Newcastle University,,19.4,20.8,19.4,19.8,19.9,19.4,17.3
+University of Bath,,17.1,19,18.5,18.2,16.9,16.3,14.1
+University of East Anglia,,19.8,21.1,22,20.7,18.7,18.5,18.3
+University of Exeter,,20.7,21.1,22.8,21.3,21.6,21,17.3
+University of Liverpool,,19.2,20.2,19.4,19.1,18.9,19.9,17.6
+University of Southampton,,18.6,20,19.3,19.5,18,18.2,16.7
+University of York,,17.1,18.6,17.3,18.7,17.3,17,13.8
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Field-Weighted Citation Impact thresholds for Outputs in Top Citation Percentiles (all publication types),,,,,,,,
+,,2017,2018,2019,2020,2021,2022,
+Top 1%,,8.34,8.34,8.25,8.5,8.61,10.34,
+Top 5%,,3.57,3.56,3.56,3.48,3.68,4.25,
+Top 10%,,2.35,2.34,2.34,2.27,2.4,2.69,
+Top 25%,,1.16,1.15,1.15,1.1,1.15,1.06,
+,,,,,,,,
+,,,,,,,,
+"© 2023 Elsevier B.V. All rights reserved. SciVal, RELX Group and the RE symbol are trade marks of RELX Intellectual Properties SA, used under license.",,,,,,,,

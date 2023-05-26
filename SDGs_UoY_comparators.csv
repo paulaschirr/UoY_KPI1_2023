@@ -1,0 +1,385 @@
+﻿value,metric,university,SDG,interest
+277,output,University of York,SDG 1: No Poverty,us
+268,output,University of York,SDG 2: Zero Hunger,us
+2106,output,University of York,SDG 3: Good Health and Well-being,us
+331,output,University of York,SDG 4: Quality Education,us
+227,output,University of York,SDG 5: Gender Equality,us
+141,output,University of York,SDG 6: Clean Water and Sanitation,us
+579,output,University of York,SDG 7: Affordable and Clean Energy,us
+310,output,University of York,SDG 8: Decent Work and Economic Growth,us
+327,output,University of York,"SDG 9: Industry, Innovation and Infrastructure",us
+542,output,University of York,SDG 10: Reduced Inequality,us
+370,output,University of York,SDG 11: Sustainable Cities and Communities,us
+260,output,University of York,SDG 12: Responsible Consumption and Production,us
+366,output,University of York,SDG 13: Climate Action,us
+189,output,University of York,SDG 14: Life Below Water,us
+348,output,University of York,SDG 15: Life on Land,us
+406,output,University of York,"SDG 16: Peace, Justice and Strong Institutions",us
+1.67,FWCI,University of York,SDG 1: No Poverty,us
+3.15,FWCI,University of York,SDG 2: Zero Hunger,us
+2.34,FWCI,University of York,SDG 3: Good Health and Well-being,us
+1.85,FWCI,University of York,SDG 4: Quality Education,us
+1.56,FWCI,University of York,SDG 5: Gender Equality,us
+3.23,FWCI,University of York,SDG 6: Clean Water and Sanitation,us
+1.5,FWCI,University of York,SDG 7: Affordable and Clean Energy,us
+2.57,FWCI,University of York,SDG 8: Decent Work and Economic Growth,us
+1.8,FWCI,University of York,"SDG 9: Industry, Innovation and Infrastructure",us
+1.54,FWCI,University of York,SDG 10: Reduced Inequality,us
+1.97,FWCI,University of York,SDG 11: Sustainable Cities and Communities,us
+2.14,FWCI,University of York,SDG 12: Responsible Consumption and Production,us
+2.69,FWCI,University of York,SDG 13: Climate Action,us
+1.86,FWCI,University of York,SDG 14: Life Below Water,us
+1.79,FWCI,University of York,SDG 15: Life on Land,us
+2.68,FWCI,University of York,"SDG 16: Peace, Justice and Strong Institutions",us
+106,output,Lancaster University,SDG 1: No Poverty,not_us
+363,output,Lancaster University,SDG 2: Zero Hunger,not_us
+1086,output,Lancaster University,SDG 3: Good Health and Well-being,not_us
+269,output,Lancaster University,SDG 4: Quality Education,not_us
+217,output,Lancaster University,SDG 5: Gender Equality,not_us
+281,output,Lancaster University,SDG 6: Clean Water and Sanitation,not_us
+595,output,Lancaster University,SDG 7: Affordable and Clean Energy,not_us
+380,output,Lancaster University,SDG 8: Decent Work and Economic Growth,not_us
+462,output,Lancaster University,"SDG 9: Industry, Innovation and Infrastructure",not_us
+373,output,Lancaster University,SDG 10: Reduced Inequality,not_us
+408,output,Lancaster University,SDG 11: Sustainable Cities and Communities,not_us
+236,output,Lancaster University,SDG 12: Responsible Consumption and Production,not_us
+565,output,Lancaster University,SDG 13: Climate Action,not_us
+204,output,Lancaster University,SDG 14: Life Below Water,not_us
+358,output,Lancaster University,SDG 15: Life on Land,not_us
+405,output,Lancaster University,"SDG 16: Peace, Justice and Strong Institutions",not_us
+1.74,FWCI,Lancaster University,SDG 1: No Poverty,not_us
+2.43,FWCI,Lancaster University,SDG 2: Zero Hunger,not_us
+6.31,FWCI,Lancaster University,SDG 3: Good Health and Well-being,not_us
+1.79,FWCI,Lancaster University,SDG 4: Quality Education,not_us
+4.2,FWCI,Lancaster University,SDG 5: Gender Equality,not_us
+1.95,FWCI,Lancaster University,SDG 6: Clean Water and Sanitation,not_us
+1.96,FWCI,Lancaster University,SDG 7: Affordable and Clean Energy,not_us
+2.11,FWCI,Lancaster University,SDG 8: Decent Work and Economic Growth,not_us
+2.16,FWCI,Lancaster University,"SDG 9: Industry, Innovation and Infrastructure",not_us
+2.59,FWCI,Lancaster University,SDG 10: Reduced Inequality,not_us
+2.2,FWCI,Lancaster University,SDG 11: Sustainable Cities and Communities,not_us
+2.33,FWCI,Lancaster University,SDG 12: Responsible Consumption and Production,not_us
+2.35,FWCI,Lancaster University,SDG 13: Climate Action,not_us
+2.21,FWCI,Lancaster University,SDG 14: Life Below Water,not_us
+2.52,FWCI,Lancaster University,SDG 15: Life on Land,not_us
+5.2,FWCI,Lancaster University,"SDG 16: Peace, Justice and Strong Institutions",not_us
+132,output,Durham University,SDG 1: No Poverty,not_us
+112,output,Durham University,SDG 2: Zero Hunger,not_us
+664,output,Durham University,SDG 3: Good Health and Well-being,not_us
+210,output,Durham University,SDG 4: Quality Education,not_us
+209,output,Durham University,SDG 5: Gender Equality,not_us
+157,output,Durham University,SDG 6: Clean Water and Sanitation,not_us
+396,output,Durham University,SDG 7: Affordable and Clean Energy,not_us
+284,output,Durham University,SDG 8: Decent Work and Economic Growth,not_us
+253,output,Durham University,"SDG 9: Industry, Innovation and Infrastructure",not_us
+364,output,Durham University,SDG 10: Reduced Inequality,not_us
+390,output,Durham University,SDG 11: Sustainable Cities and Communities,not_us
+121,output,Durham University,SDG 12: Responsible Consumption and Production,not_us
+337,output,Durham University,SDG 13: Climate Action,not_us
+172,output,Durham University,SDG 14: Life Below Water,not_us
+250,output,Durham University,SDG 15: Life on Land,not_us
+458,output,Durham University,"SDG 16: Peace, Justice and Strong Institutions",not_us
+1.71,FWCI,Durham University,SDG 1: No Poverty,not_us
+2.34,FWCI,Durham University,SDG 2: Zero Hunger,not_us
+2.33,FWCI,Durham University,SDG 3: Good Health and Well-being,not_us
+1.73,FWCI,Durham University,SDG 4: Quality Education,not_us
+1.74,FWCI,Durham University,SDG 5: Gender Equality,not_us
+1.87,FWCI,Durham University,SDG 6: Clean Water and Sanitation,not_us
+1.9,FWCI,Durham University,SDG 7: Affordable and Clean Energy,not_us
+1.96,FWCI,Durham University,SDG 8: Decent Work and Economic Growth,not_us
+2.05,FWCI,Durham University,"SDG 9: Industry, Innovation and Infrastructure",not_us
+1.98,FWCI,Durham University,SDG 10: Reduced Inequality,not_us
+1.88,FWCI,Durham University,SDG 11: Sustainable Cities and Communities,not_us
+2.3,FWCI,Durham University,SDG 12: Responsible Consumption and Production,not_us
+2.17,FWCI,Durham University,SDG 13: Climate Action,not_us
+1.73,FWCI,Durham University,SDG 14: Life Below Water,not_us
+2.85,FWCI,Durham University,SDG 15: Life on Land,not_us
+1.74,FWCI,Durham University,"SDG 16: Peace, Justice and Strong Institutions",not_us
+113,output,Loughborough University,SDG 1: No Poverty,not_us
+112,output,Loughborough University,SDG 2: Zero Hunger,not_us
+719,output,Loughborough University,SDG 3: Good Health and Well-being,not_us
+187,output,Loughborough University,SDG 4: Quality Education,not_us
+123,output,Loughborough University,SDG 5: Gender Equality,not_us
+221,output,Loughborough University,SDG 6: Clean Water and Sanitation,not_us
+808,output,Loughborough University,SDG 7: Affordable and Clean Energy,not_us
+271,output,Loughborough University,SDG 8: Decent Work and Economic Growth,not_us
+707,output,Loughborough University,"SDG 9: Industry, Innovation and Infrastructure",not_us
+249,output,Loughborough University,SDG 10: Reduced Inequality,not_us
+426,output,Loughborough University,SDG 11: Sustainable Cities and Communities,not_us
+233,output,Loughborough University,SDG 12: Responsible Consumption and Production,not_us
+268,output,Loughborough University,SDG 13: Climate Action,not_us
+42,output,Loughborough University,SDG 14: Life Below Water,not_us
+83,output,Loughborough University,SDG 15: Life on Land,not_us
+208,output,Loughborough University,"SDG 16: Peace, Justice and Strong Institutions",not_us
+1.76,FWCI,Loughborough University,SDG 1: No Poverty,not_us
+2.35,FWCI,Loughborough University,SDG 2: Zero Hunger,not_us
+2.45,FWCI,Loughborough University,SDG 3: Good Health and Well-being,not_us
+1.49,FWCI,Loughborough University,SDG 4: Quality Education,not_us
+2.2,FWCI,Loughborough University,SDG 5: Gender Equality,not_us
+1.51,FWCI,Loughborough University,SDG 6: Clean Water and Sanitation,not_us
+1.45,FWCI,Loughborough University,SDG 7: Affordable and Clean Energy,not_us
+1.89,FWCI,Loughborough University,SDG 8: Decent Work and Economic Growth,not_us
+2.06,FWCI,Loughborough University,"SDG 9: Industry, Innovation and Infrastructure",not_us
+1.76,FWCI,Loughborough University,SDG 10: Reduced Inequality,not_us
+1.98,FWCI,Loughborough University,SDG 11: Sustainable Cities and Communities,not_us
+1.87,FWCI,Loughborough University,SDG 12: Responsible Consumption and Production,not_us
+1.84,FWCI,Loughborough University,SDG 13: Climate Action,not_us
+1.65,FWCI,Loughborough University,SDG 14: Life Below Water,not_us
+1.96,FWCI,Loughborough University,SDG 15: Life on Land,not_us
+1.63,FWCI,Loughborough University,"SDG 16: Peace, Justice and Strong Institutions",not_us
+192,output,Newcastle University,SDG 1: No Poverty,not_us
+363,output,Newcastle University,SDG 2: Zero Hunger,not_us
+4276,output,Newcastle University,SDG 3: Good Health and Well-being,not_us
+343,output,Newcastle University,SDG 4: Quality Education,not_us
+261,output,Newcastle University,SDG 5: Gender Equality,not_us
+359,output,Newcastle University,SDG 6: Clean Water and Sanitation,not_us
+1203,output,Newcastle University,SDG 7: Affordable and Clean Energy,not_us
+482,output,Newcastle University,SDG 8: Decent Work and Economic Growth,not_us
+740,output,Newcastle University,"SDG 9: Industry, Innovation and Infrastructure",not_us
+536,output,Newcastle University,SDG 10: Reduced Inequality,not_us
+809,output,Newcastle University,SDG 11: Sustainable Cities and Communities,not_us
+410,output,Newcastle University,SDG 12: Responsible Consumption and Production,not_us
+806,output,Newcastle University,SDG 13: Climate Action,not_us
+290,output,Newcastle University,SDG 14: Life Below Water,not_us
+298,output,Newcastle University,SDG 15: Life on Land,not_us
+510,output,Newcastle University,"SDG 16: Peace, Justice and Strong Institutions",not_us
+1.88,FWCI,Newcastle University,SDG 1: No Poverty,not_us
+3,FWCI,Newcastle University,SDG 2: Zero Hunger,not_us
+3.43,FWCI,Newcastle University,SDG 3: Good Health and Well-being,not_us
+1.91,FWCI,Newcastle University,SDG 4: Quality Education,not_us
+3.04,FWCI,Newcastle University,SDG 5: Gender Equality,not_us
+2.23,FWCI,Newcastle University,SDG 6: Clean Water and Sanitation,not_us
+1.9,FWCI,Newcastle University,SDG 7: Affordable and Clean Energy,not_us
+2.75,FWCI,Newcastle University,SDG 8: Decent Work and Economic Growth,not_us
+2.23,FWCI,Newcastle University,"SDG 9: Industry, Innovation and Infrastructure",not_us
+2.32,FWCI,Newcastle University,SDG 10: Reduced Inequality,not_us
+2.07,FWCI,Newcastle University,SDG 11: Sustainable Cities and Communities,not_us
+2.57,FWCI,Newcastle University,SDG 12: Responsible Consumption and Production,not_us
+3.25,FWCI,Newcastle University,SDG 13: Climate Action,not_us
+1.85,FWCI,Newcastle University,SDG 14: Life Below Water,not_us
+2.43,FWCI,Newcastle University,SDG 15: Life on Land,not_us
+4.65,FWCI,Newcastle University,"SDG 16: Peace, Justice and Strong Institutions",not_us
+143,output,University of Bath,SDG 1: No Poverty,not_us
+73,output,University of Bath,SDG 2: Zero Hunger,not_us
+1089,output,University of Bath,SDG 3: Good Health and Well-being,not_us
+214,output,University of Bath,SDG 4: Quality Education,not_us
+162,output,University of Bath,SDG 5: Gender Equality,not_us
+233,output,University of Bath,SDG 6: Clean Water and Sanitation,not_us
+773,output,University of Bath,SDG 7: Affordable and Clean Energy,not_us
+268,output,University of Bath,SDG 8: Decent Work and Economic Growth,not_us
+462,output,University of Bath,"SDG 9: Industry, Innovation and Infrastructure",not_us
+271,output,University of Bath,SDG 10: Reduced Inequality,not_us
+201,output,University of Bath,SDG 11: Sustainable Cities and Communities,not_us
+240,output,University of Bath,SDG 12: Responsible Consumption and Production,not_us
+309,output,University of Bath,SDG 13: Climate Action,not_us
+55,output,University of Bath,SDG 14: Life Below Water,not_us
+81,output,University of Bath,SDG 15: Life on Land,not_us
+264,output,University of Bath,"SDG 16: Peace, Justice and Strong Institutions",not_us
+1.63,FWCI,University of Bath,SDG 1: No Poverty,not_us
+4.92,FWCI,University of Bath,SDG 2: Zero Hunger,not_us
+2.98,FWCI,University of Bath,SDG 3: Good Health and Well-being,not_us
+1.58,FWCI,University of Bath,SDG 4: Quality Education,not_us
+1.87,FWCI,University of Bath,SDG 5: Gender Equality,not_us
+2.88,FWCI,University of Bath,SDG 6: Clean Water and Sanitation,not_us
+2.04,FWCI,University of Bath,SDG 7: Affordable and Clean Energy,not_us
+2.8,FWCI,University of Bath,SDG 8: Decent Work and Economic Growth,not_us
+2.09,FWCI,University of Bath,"SDG 9: Industry, Innovation and Infrastructure",not_us
+2.35,FWCI,University of Bath,SDG 10: Reduced Inequality,not_us
+2.09,FWCI,University of Bath,SDG 11: Sustainable Cities and Communities,not_us
+1.69,FWCI,University of Bath,SDG 12: Responsible Consumption and Production,not_us
+2.06,FWCI,University of Bath,SDG 13: Climate Action,not_us
+1.42,FWCI,University of Bath,SDG 14: Life Below Water,not_us
+1.67,FWCI,University of Bath,SDG 15: Life on Land,not_us
+3.21,FWCI,University of Bath,"SDG 16: Peace, Justice and Strong Institutions",not_us
+149,output,University of East Anglia,SDG 1: No Poverty,not_us
+317,output,University of East Anglia,SDG 2: Zero Hunger,not_us
+1635,output,University of East Anglia,SDG 3: Good Health and Well-being,not_us
+183,output,University of East Anglia,SDG 4: Quality Education,not_us
+134,output,University of East Anglia,SDG 5: Gender Equality,not_us
+214,output,University of East Anglia,SDG 6: Clean Water and Sanitation,not_us
+311,output,University of East Anglia,SDG 7: Affordable and Clean Energy,not_us
+355,output,University of East Anglia,SDG 8: Decent Work and Economic Growth,not_us
+310,output,University of East Anglia,"SDG 9: Industry, Innovation and Infrastructure",not_us
+299,output,University of East Anglia,SDG 10: Reduced Inequality,not_us
+274,output,University of East Anglia,SDG 11: Sustainable Cities and Communities,not_us
+254,output,University of East Anglia,SDG 12: Responsible Consumption and Production,not_us
+745,output,University of East Anglia,SDG 13: Climate Action,not_us
+318,output,University of East Anglia,SDG 14: Life Below Water,not_us
+458,output,University of East Anglia,SDG 15: Life on Land,not_us
+388,output,University of East Anglia,"SDG 16: Peace, Justice and Strong Institutions",not_us
+2.03,FWCI,University of East Anglia,SDG 1: No Poverty,not_us
+2.82,FWCI,University of East Anglia,SDG 2: Zero Hunger,not_us
+3.85,FWCI,University of East Anglia,SDG 3: Good Health and Well-being,not_us
+1.48,FWCI,University of East Anglia,SDG 4: Quality Education,not_us
+5.17,FWCI,University of East Anglia,SDG 5: Gender Equality,not_us
+1.94,FWCI,University of East Anglia,SDG 6: Clean Water and Sanitation,not_us
+2.39,FWCI,University of East Anglia,SDG 7: Affordable and Clean Energy,not_us
+2.69,FWCI,University of East Anglia,SDG 8: Decent Work and Economic Growth,not_us
+2.93,FWCI,University of East Anglia,"SDG 9: Industry, Innovation and Infrastructure",not_us
+3.02,FWCI,University of East Anglia,SDG 10: Reduced Inequality,not_us
+2.07,FWCI,University of East Anglia,SDG 11: Sustainable Cities and Communities,not_us
+2.67,FWCI,University of East Anglia,SDG 12: Responsible Consumption and Production,not_us
+3.77,FWCI,University of East Anglia,SDG 13: Climate Action,not_us
+2.09,FWCI,University of East Anglia,SDG 14: Life Below Water,not_us
+2.54,FWCI,University of East Anglia,SDG 15: Life on Land,not_us
+3.64,FWCI,University of East Anglia,"SDG 16: Peace, Justice and Strong Institutions",not_us
+120,output,University of Exeter,SDG 1: No Poverty,not_us
+425,output,University of Exeter,SDG 2: Zero Hunger,not_us
+2540,output,University of Exeter,SDG 3: Good Health and Well-being,not_us
+300,output,University of Exeter,SDG 4: Quality Education,not_us
+256,output,University of Exeter,SDG 5: Gender Equality,not_us
+450,output,University of Exeter,SDG 6: Clean Water and Sanitation,not_us
+757,output,University of Exeter,SDG 7: Affordable and Clean Energy,not_us
+388,output,University of Exeter,SDG 8: Decent Work and Economic Growth,not_us
+506,output,University of Exeter,"SDG 9: Industry, Innovation and Infrastructure",not_us
+380,output,University of Exeter,SDG 10: Reduced Inequality,not_us
+610,output,University of Exeter,SDG 11: Sustainable Cities and Communities,not_us
+357,output,University of Exeter,SDG 12: Responsible Consumption and Production,not_us
+1118,output,University of Exeter,SDG 13: Climate Action,not_us
+726,output,University of Exeter,SDG 14: Life Below Water,not_us
+732,output,University of Exeter,SDG 15: Life on Land,not_us
+547,output,University of Exeter,"SDG 16: Peace, Justice and Strong Institutions",not_us
+2.14,FWCI,University of Exeter,SDG 1: No Poverty,not_us
+3.08,FWCI,University of Exeter,SDG 2: Zero Hunger,not_us
+2.8,FWCI,University of Exeter,SDG 3: Good Health and Well-being,not_us
+1.68,FWCI,University of Exeter,SDG 4: Quality Education,not_us
+1.78,FWCI,University of Exeter,SDG 5: Gender Equality,not_us
+2.3,FWCI,University of Exeter,SDG 6: Clean Water and Sanitation,not_us
+1.89,FWCI,University of Exeter,SDG 7: Affordable and Clean Energy,not_us
+2.79,FWCI,University of Exeter,SDG 8: Decent Work and Economic Growth,not_us
+2.22,FWCI,University of Exeter,"SDG 9: Industry, Innovation and Infrastructure",not_us
+1.97,FWCI,University of Exeter,SDG 10: Reduced Inequality,not_us
+2.33,FWCI,University of Exeter,SDG 11: Sustainable Cities and Communities,not_us
+2.11,FWCI,University of Exeter,SDG 12: Responsible Consumption and Production,not_us
+3.51,FWCI,University of Exeter,SDG 13: Climate Action,not_us
+2.32,FWCI,University of Exeter,SDG 14: Life Below Water,not_us
+2.38,FWCI,University of Exeter,SDG 15: Life on Land,not_us
+2.48,FWCI,University of Exeter,"SDG 16: Peace, Justice and Strong Institutions",not_us
+154,output,University of Liverpool,SDG 1: No Poverty,not_us
+284,output,University of Liverpool,SDG 2: Zero Hunger,not_us
+5570,output,University of Liverpool,SDG 3: Good Health and Well-being,not_us
+277,output,University of Liverpool,SDG 4: Quality Education,not_us
+361,output,University of Liverpool,SDG 5: Gender Equality,not_us
+177,output,University of Liverpool,SDG 6: Clean Water and Sanitation,not_us
+791,output,University of Liverpool,SDG 7: Affordable and Clean Energy,not_us
+291,output,University of Liverpool,SDG 8: Decent Work and Economic Growth,not_us
+489,output,University of Liverpool,"SDG 9: Industry, Innovation and Infrastructure",not_us
+533,output,University of Liverpool,SDG 10: Reduced Inequality,not_us
+501,output,University of Liverpool,SDG 11: Sustainable Cities and Communities,not_us
+218,output,University of Liverpool,SDG 12: Responsible Consumption and Production,not_us
+360,output,University of Liverpool,SDG 13: Climate Action,not_us
+266,output,University of Liverpool,SDG 14: Life Below Water,not_us
+211,output,University of Liverpool,SDG 15: Life on Land,not_us
+613,output,University of Liverpool,"SDG 16: Peace, Justice and Strong Institutions",not_us
+2.32,FWCI,University of Liverpool,SDG 1: No Poverty,not_us
+2.93,FWCI,University of Liverpool,SDG 2: Zero Hunger,not_us
+3.11,FWCI,University of Liverpool,SDG 3: Good Health and Well-being,not_us
+1.92,FWCI,University of Liverpool,SDG 4: Quality Education,not_us
+2.17,FWCI,University of Liverpool,SDG 5: Gender Equality,not_us
+2.57,FWCI,University of Liverpool,SDG 6: Clean Water and Sanitation,not_us
+2.23,FWCI,University of Liverpool,SDG 7: Affordable and Clean Energy,not_us
+2.57,FWCI,University of Liverpool,SDG 8: Decent Work and Economic Growth,not_us
+2.09,FWCI,University of Liverpool,"SDG 9: Industry, Innovation and Infrastructure",not_us
+2.38,FWCI,University of Liverpool,SDG 10: Reduced Inequality,not_us
+1.64,FWCI,University of Liverpool,SDG 11: Sustainable Cities and Communities,not_us
+1.56,FWCI,University of Liverpool,SDG 12: Responsible Consumption and Production,not_us
+2.32,FWCI,University of Liverpool,SDG 13: Climate Action,not_us
+1.67,FWCI,University of Liverpool,SDG 14: Life Below Water,not_us
+1.56,FWCI,University of Liverpool,SDG 15: Life on Land,not_us
+3.39,FWCI,University of Liverpool,"SDG 16: Peace, Justice and Strong Institutions",not_us
+202,output,University of Southampton,SDG 1: No Poverty,not_us
+354,output,University of Southampton,SDG 2: Zero Hunger,not_us
+4116,output,University of Southampton,SDG 3: Good Health and Well-being,not_us
+346,output,University of Southampton,SDG 4: Quality Education,not_us
+311,output,University of Southampton,SDG 5: Gender Equality,not_us
+260,output,University of Southampton,SDG 6: Clean Water and Sanitation,not_us
+999,output,University of Southampton,SDG 7: Affordable and Clean Energy,not_us
+416,output,University of Southampton,SDG 8: Decent Work and Economic Growth,not_us
+628,output,University of Southampton,"SDG 9: Industry, Innovation and Infrastructure",not_us
+442,output,University of Southampton,SDG 10: Reduced Inequality,not_us
+651,output,University of Southampton,SDG 11: Sustainable Cities and Communities,not_us
+282,output,University of Southampton,SDG 12: Responsible Consumption and Production,not_us
+758,output,University of Southampton,SDG 13: Climate Action,not_us
+827,output,University of Southampton,SDG 14: Life Below Water,not_us
+352,output,University of Southampton,SDG 15: Life on Land,not_us
+410,output,University of Southampton,"SDG 16: Peace, Justice and Strong Institutions",not_us
+2.27,FWCI,University of Southampton,SDG 1: No Poverty,not_us
+1.96,FWCI,University of Southampton,SDG 2: Zero Hunger,not_us
+3.66,FWCI,University of Southampton,SDG 3: Good Health and Well-being,not_us
+1.78,FWCI,University of Southampton,SDG 4: Quality Education,not_us
+3.24,FWCI,University of Southampton,SDG 5: Gender Equality,not_us
+1.7,FWCI,University of Southampton,SDG 6: Clean Water and Sanitation,not_us
+1.89,FWCI,University of Southampton,SDG 7: Affordable and Clean Energy,not_us
+2.23,FWCI,University of Southampton,SDG 8: Decent Work and Economic Growth,not_us
+2.12,FWCI,University of Southampton,"SDG 9: Industry, Innovation and Infrastructure",not_us
+2.45,FWCI,University of Southampton,SDG 10: Reduced Inequality,not_us
+2.05,FWCI,University of Southampton,SDG 11: Sustainable Cities and Communities,not_us
+1.7,FWCI,University of Southampton,SDG 12: Responsible Consumption and Production,not_us
+2.52,FWCI,University of Southampton,SDG 13: Climate Action,not_us
+1.95,FWCI,University of Southampton,SDG 14: Life Below Water,not_us
+2.12,FWCI,University of Southampton,SDG 15: Life on Land,not_us
+4.77,FWCI,University of Southampton,"SDG 16: Peace, Justice and Strong Institutions",not_us
+9391,output,United Kingdom average,SDG 1: No Poverty,not_us
+13219,output,United Kingdom average,SDG 2: Zero Hunger,not_us
+173100,output,United Kingdom average,SDG 3: Good Health and Well-being,not_us
+18392,output,United Kingdom average,SDG 4: Quality Education,not_us
+15905,output,United Kingdom average,SDG 5: Gender Equality,not_us
+11350,output,United Kingdom average,SDG 6: Clean Water and Sanitation,not_us
+36929,output,United Kingdom average,SDG 7: Affordable and Clean Energy,not_us
+20459,output,United Kingdom average,SDG 8: Decent Work and Economic Growth,not_us
+28952,output,United Kingdom average,"SDG 9: Industry, Innovation and Infrastructure",not_us
+24465,output,United Kingdom average,SDG 10: Reduced Inequality,not_us
+23903,output,United Kingdom average,SDG 11: Sustainable Cities and Communities,not_us
+14976,output,United Kingdom average,SDG 12: Responsible Consumption and Production,not_us
+23600,output,United Kingdom average,SDG 13: Climate Action,not_us
+11900,output,United Kingdom average,SDG 14: Life Below Water,not_us
+15829,output,United Kingdom average,SDG 15: Life on Land,not_us
+28101,output,United Kingdom average,"SDG 16: Peace, Justice and Strong Institutions",not_us
+1.67,FWCI,United Kingdom average,SDG 1: No Poverty,not_us
+1.99,FWCI,United Kingdom average,SDG 2: Zero Hunger,not_us
+2.15,FWCI,United Kingdom average,SDG 3: Good Health and Well-being,not_us
+1.42,FWCI,United Kingdom average,SDG 4: Quality Education,not_us
+1.57,FWCI,United Kingdom average,SDG 5: Gender Equality,not_us
+1.69,FWCI,United Kingdom average,SDG 6: Clean Water and Sanitation,not_us
+1.82,FWCI,United Kingdom average,SDG 7: Affordable and Clean Energy,not_us
+1.9,FWCI,United Kingdom average,SDG 8: Decent Work and Economic Growth,not_us
+1.98,FWCI,United Kingdom average,"SDG 9: Industry, Innovation and Infrastructure",not_us
+1.63,FWCI,United Kingdom average,SDG 10: Reduced Inequality,not_us
+1.75,FWCI,United Kingdom average,SDG 11: Sustainable Cities and Communities,not_us
+1.95,FWCI,United Kingdom average,SDG 12: Responsible Consumption and Production,not_us
+2.14,FWCI,United Kingdom average,SDG 13: Climate Action,not_us
+1.74,FWCI,United Kingdom average,SDG 14: Life Below Water,not_us
+1.76,FWCI,United Kingdom average,SDG 15: Life on Land,not_us
+1.5,FWCI,United Kingdom average,"SDG 16: Peace, Justice and Strong Institutions",not_us
+1,FWCI,World average,SDG 1: No Poverty,world
+1,FWCI,World average,SDG 2: Zero Hunger,world
+1,FWCI,World average,SDG 3: Good Health and Well-being,world
+1,FWCI,World average,SDG 4: Quality Education,world
+1,FWCI,World average,SDG 5: Gender Equality,world
+1,FWCI,World average,SDG 6: Clean Water and Sanitation,world
+1,FWCI,World average,SDG 7: Affordable and Clean Energy,world
+1,FWCI,World average,SDG 8: Decent Work and Economic Growth,world
+1,FWCI,World average,"SDG 9: Industry, Innovation and Infrastructure",world
+1,FWCI,World average,SDG 10: Reduced Inequality,world
+1,FWCI,World average,SDG 11: Sustainable Cities and Communities,world
+1,FWCI,World average,SDG 12: Responsible Consumption and Production,world
+1,FWCI,World average,SDG 13: Climate Action,world
+1,FWCI,World average,SDG 14: Life Below Water,world
+1,FWCI,World average,SDG 15: Life on Land,world
+1,FWCI,World average,"SDG 16: Peace, Justice and Strong Institutions",world
+80077,output,World average,SDG 1: No Poverty,world
+208522,output,World average,SDG 2: Zero Hunger,world
+2437949,output,World average,SDG 3: Good Health and Well-being,world
+241509,output,World average,SDG 4: Quality Education,world
+138578,output,World average,SDG 5: Gender Equality,world
+280894,output,World average,SDG 6: Clean Water and Sanitation,world
+771070,output,World average,SDG 7: Affordable and Clean Energy,world
+251736,output,World average,SDG 8: Decent Work and Economic Growth,world
+439577,output,World average,"SDG 9: Industry, Innovation and Infrastructure",world
+225828,output,World average,SDG 10: Reduced Inequality,world
+383406,output,World average,SDG 11: Sustainable Cities and Communities,world
+232638,output,World average,SDG 12: Responsible Consumption and Production,world
+262693,output,World average,SDG 13: Climate Action,world
+165380,output,World average,SDG 14: Life Below Water,world
+199199,output,World average,SDG 15: Life on Land,world
+223693,output,World average,"SDG 16: Peace, Justice and Strong Institutions",world
